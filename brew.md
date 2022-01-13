@@ -4,6 +4,12 @@ Development
 scrcpy
 `brew install scrcpy`
 
+node
+`brew install node`
+
+Java (Java JDK)
+`brew install java`
+
 Applications (with licenses)
 ----------------------------
 
