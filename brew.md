@@ -7,6 +7,9 @@ scrcpy
 node
 `brew install node`
 
+Postman
+`brew install --cask postman`
+
 Java (Java JDK)
 `brew install java`
 
