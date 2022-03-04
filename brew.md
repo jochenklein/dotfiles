@@ -13,6 +13,9 @@ Postman
 Java (Java JDK)
 `brew install java`
 
+ImageMagick
+`brew install imagemagick`
+
 Applications (with licenses)
 ----------------------------
 
