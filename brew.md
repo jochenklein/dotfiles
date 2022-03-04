@@ -13,6 +13,9 @@ Postman
 Java (Java JDK)
 `brew install java`
 
+ImageOptim
+`brew install --cask imageoptim`
+
 ImageMagick
 `brew install imagemagick`
 
