@@ -61,3 +61,6 @@ Mozilla Firefox
 
 OBS Studio
 `brew install --cask obs`
+
+MeetingBar
+`brew install --cask meetingbar`
