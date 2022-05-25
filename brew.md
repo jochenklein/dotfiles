@@ -19,6 +19,9 @@ ImageOptim
 ImageMagick
 `brew install imagemagick`
 
+SDKMAN!
+`curl -s "https://get.sdkman.io" | bash`
+
 Applications (with licenses)
 ----------------------------
 
