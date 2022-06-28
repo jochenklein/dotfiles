@@ -67,3 +67,6 @@ OBS Studio
 
 MeetingBar
 `brew install --cask meetingbar`
+
+AltTab - Windows alt-tab on macOS
+`brew install --cask alt-tab`
