@@ -44,6 +44,12 @@ Applications (free)
 Sublime Text
 `brew install --cask sublime-text`
 
+Visual Studio Code
+`brew install --cask visual-studio-code`
+
+Brave Browser
+`brew install --cask brave-browser`
+
 Google Drive
 `brew install --cask google-drive`
 
